@@ -25,7 +25,7 @@
 ![Imported](solidity_screenshots/MyCrypto_Token_balance.JPG)
 
 - Token Balance after the Token was imported:
-![Token_imported](Token_Balance_in_my_crypto_afterwards.JPG)
+![Token_imported](solidity_screenshots/Token_Balance_in_my_crypto_afterwards.JPG)
 
 - Token Balance showing on Ropsten network:
 ![Ropsten](solidity_screenshots/ropsten_network.JPG)
