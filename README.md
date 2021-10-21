@@ -8,7 +8,7 @@
 
 ### For the sake of time we changed the code from "now + 24 weeks" to "now + 5 minutes"
 - Once the contract is deployed all the features were coming positive as shown below
-![Function\(solidity_screenshots/buytoken_functions.JPG)
+![Function](solidity_screenshots/buytoken_functions.JPG)
 
 ### To test the transaction we send the Token from one address to another
 - Wallet address from where the Token was sent "0x6062105F4F238dF09C1EF9e0C21cbD878c794a1a"
