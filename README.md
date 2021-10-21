@@ -7,7 +7,8 @@
 ![Parameters](solidity_screenshots/deployer%20contract%20deployed.JPG)
 
 ### For the sake of time we changed the code from "now + 24 weeks" to "now + 5 minutes"
-- Once the contract is deployed all the features were coming positive as shown below
+- Once the contract is deployed all the features were coming positive before it was finalized as shown below
+- for Finalization we have to wait for 5 minutes
 ![Function](solidity_screenshots/buytoken_functions.JPG)
 
 ### To test the transaction we send the Token from one address to another
