@@ -21,11 +21,11 @@
 - Token sent to screenshot
 ![Token_sent_to](solidity_screenshots/token_sent_to.JPG)
 
-- Token imported to the address:
+- Token imported to the address
 ![Imported](solidity_screenshots/MyCrypto_Token_balance.JPG)
 
-- Token Balance after the Token was imported:
+- Token Balance after the Token was imported
 ![Token_imported](solidity_screenshots/Token_Balance_in_my_crypto_afterwards.JPG)
 
-- Token Balance showing on Ropsten network:
+- Token Balance showing on Ropsten network
 ![Ropsten](solidity_screenshots/ropsten_network.JPG)
