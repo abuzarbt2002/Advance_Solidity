@@ -4,7 +4,7 @@
 
 ### The contract was deployed with following parameters
 - We setup the code in such a way to put the rate at spot time and for this example we are using "1" to complete the assignment.
-![Parameters](solidity_screenshots/deployer%20contract%20deployed.JPG)
+- ![Parameters](solidity_screenshots/deployer%20contract%20deployed.JPG)
 
 ### For the sake of time we changed the code from "now + 24 weeks" to "now + 5 minutes"
 - Once the contract is deployed all the features were coming positive before it was finalized as shown below
